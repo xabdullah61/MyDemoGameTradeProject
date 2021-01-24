@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game-kampOdev", "Game-kampOdev\Game-kampOdev.csproj", "{6DF61C40-32D4-4C41-BA49-104FC6393AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF61C40-32D4-4C41-BA49-104FC6393AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF61C40-32D4-4C41-BA49-104FC6393AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF61C40-32D4-4C41-BA49-104FC6393AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF61C40-32D4-4C41-BA49-104FC6393AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55EB82E4-86B2-410E-8F64-76344A529087}
+	EndGlobalSection
+EndGlobal
